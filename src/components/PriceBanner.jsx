@@ -28,10 +28,6 @@ const Container = styled.div`
     position: absolute;
     right: 260px;
   }
-  /*   @media (min-width: 520px) and (max-width: 768px) {
-    position: absolute;
-    left: 550px;
-  } */
   @media (min-width: 520px) and (max-width: 779px) {
     position: absolute;
     left: 400px;
